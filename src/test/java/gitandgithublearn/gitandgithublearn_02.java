@@ -5,6 +5,7 @@ public class gitandgithublearn_02
   
   public void test2()
    { 
+	   // here i am adding one commit
 	   int per=100;
 	   
 	   if(per>60)
