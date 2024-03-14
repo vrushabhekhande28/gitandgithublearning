@@ -11,7 +11,10 @@ public class gitandgithublearn_02
 	   {
 		  System.out.println("you can allow to fill the form");   
 	   }
-	   
+	   else if(per>60 && per<80)
+	   {
+		   System.out.println("chances of rejection");
+	   }
 	   else
 	   {
 		System.out.println("you are not allowed");
@@ -19,3 +22,4 @@ public class gitandgithublearn_02
    }
 
 }
+  
